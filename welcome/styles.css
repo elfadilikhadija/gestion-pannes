@@ -1,0 +1,54 @@
+/* styles.css */
+
+    
+    body {
+        
+    background-image: url("images-projet/img2.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 40px;
+    }
+    .encadrement{
+        padding: 1px 1px;
+        border: 5px solid #5312cc;
+        background-color: #fff;
+        border-radius: 15px;
+        font-size: 25px;
+        width: 30%;
+        margin-left: 35%;
+            margin-right: 600px;
+            margin-top: 40px;
+    }
+        a {
+            text-decoration: none;
+            color: #0a4d94;
+            
+            
+        }
+        a:hover{
+        text-decoration: underline;
+        }
+    
+    
+
+h1 {
+    color: #0a4d94;
+}
+h3{
+    color: #4c9cf1;
+}
+    
+
+
+
+
+
+
+
+
+
+
+
